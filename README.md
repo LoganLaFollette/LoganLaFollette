@@ -2,10 +2,10 @@
 
 My name is Logan LaFollette!
 
-I am a: 
+I have experience as a: 
 
 Software Engineer  
 Web/Systems Developer  
 ECM Consultant  
 
-
+In the Real Estate and Electronic Content Management (ECM) sectors
