@@ -1,13 +1,15 @@
 # Hello! :smiley:
 
-My name is Logan LaFollette!
+<p align="center">
+My name is Logan LaFollette!<br>
+I have experience as a:<br> 
+Software Engineer<br>  
+Web/Systems Developer<br>  
+ECM Consultant<br>  
+In the Real Estate and Electronic Content Management (ECM) sectors<br>
+</p>
 
-I have experience as a: 
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=dark&count_private=true" alt="">
+</p>
 
-Software Engineer  
-Web/Systems Developer  
-ECM Consultant  
-
-In the Real Estate and Electronic Content Management (ECM) sectors
-
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=dark&count_private=true)](https://github.com/LoganLaFollette/github-readme-stats)
