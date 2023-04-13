@@ -10,4 +10,4 @@ ECM Consultant
 
 In the Real Estate and Electronic Content Management (ECM) sectors
 
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=synthwave&count_private=true)](https://github.com/LoganLaFollette/github-readme-stats)
+[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=dark&count_private=true)](https://github.com/LoganLaFollette/github-readme-stats)
