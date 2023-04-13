@@ -1,7 +1,7 @@
 # Hello! :smiley:
 
 <p align="center">
-My name is Logan LaFollette!<br>
+My name is Logan LaFollette!<br><br>
 I have experience as a:<br> 
 Software Engineer<br>  
 Web/Systems Developer<br>  
