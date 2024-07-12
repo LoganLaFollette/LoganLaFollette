@@ -11,10 +11,10 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### ℹ️ Stats:
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-zeta-ashy.vercel.app/api/top-langs?username=LoganLaFollette&layout=donut&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats-zeta-ashy.vercel.app/api/top-langs?username=LoganLaFollette&layout=donut&theme=holi&bg_color=00000000" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats-zeta-ashy.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats-zeta-ashy.vercel.app/api?username=LoganLaFollette&show_icons=true&theme=holi&bg_color=00000000" />
 </a>
 
 ***
